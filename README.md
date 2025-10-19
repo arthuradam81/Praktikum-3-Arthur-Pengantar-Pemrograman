@@ -26,7 +26,6 @@ Selesai
 a = int(input("Masukkan bilangan pertama: "))
 b = int(input("Masukkan bilangan kedua: "))
 c = int(input("Masukkan bilangan ketiga: "))
-d = int(input("Masukkan bilangan keempat:"))
 
 Program meminta pengguna untuk memasukkan empat bilangan (a, b, c, dan d).
 int() digunakan agar bisa menerima bilangan desimal (misal 3.5, 2.1, dll).
