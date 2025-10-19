@@ -1,4 +1,4 @@
-# Praktikum-3-Arthur-Pengantar-Pemrograman-
+# Praktikum-3-Arthur-Pengantar-Pemrograman
 # Latihan-3-Arthur-Adam-Radhitya-312510233
 
 # Logika-Flowchart-Latihan-3
